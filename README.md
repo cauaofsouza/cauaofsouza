@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello everyone, i'm Cauã 👋
 
-<!--
-**cauaofsouza/cauaofsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student, currently a Web Development scholar
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**  
+[![Backend](https://skillicons.dev/icons?i=java,python,go,php,laravel,spring,postgres)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+
+**Frontend**  
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,flutter,dart)](https://skillicons.dev)
+
+**Other Languages**  
+[![Other](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
